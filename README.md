@@ -4,7 +4,7 @@
 Get the package dependencies updated with:
 
 ```bash
-uv sync -U
+uv sync --upgrade
 ```
 
 
